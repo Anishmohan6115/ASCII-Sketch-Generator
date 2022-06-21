@@ -29,7 +29,7 @@ elif bg == "black":
 # Getting the character List, Font and Scaling characters for square Pixels
 char_list, font, scale = get_data("complex")
 num_chars = len(char_list)
-num_cols = 300
+num_cols = 400
 
 # Reading Input Image
 image = cv2.imread("sketch.jpg")

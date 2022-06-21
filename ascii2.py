@@ -73,4 +73,4 @@ elif bg == "black":
 
 # Saving the new Image
 out_image = out_image.crop(cropped_image)
-out_image.save("AsciiSketch.jpg")
+out_image.resize((width,height)).save("AsciiSketch.jpg")

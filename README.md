@@ -37,7 +37,7 @@ Now, we fill the characters in each box of ascii image. The type and color of ch
 ## Demo
 
 This is a small video demo for better understanding of this project.
-[Drive Link]()
+[Drive Link](https://drive.google.com/file/d/1wm28DxqTV2R8mbiCSqKLW2QyfhU1repl/view?usp=sharing)
 
 Input:
 
@@ -54,6 +54,6 @@ AsciiSketch.jpg
 ## Resources/References
 
 These are few links to blog posts which helped me understand how images work and how can i make sketches in a digital computer:
-- [Post01](https://turbofuture.com/graphic-design-video/Text-Drawings-Image-to-Ascii-Art)
-- [Post02](https://blog.waffles.space/2017/03/01/ascii-sketch/#fnref:2)
-- [Post03](https://www.analyticsvidhya.com/blog/2021/03/grayscale-and-rgb-format-for-storing-images/)
+- [Ascii Art](https://turbofuture.com/graphic-design-video/Text-Drawings-Image-to-Ascii-Art)
+- [Ascii Sketch](https://blog.waffles.space/2017/03/01/ascii-sketch/#fnref:2)
+- [Digital Images](https://www.analyticsvidhya.com/blog/2021/03/grayscale-and-rgb-format-for-storing-images/)
